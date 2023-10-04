@@ -1,0 +1,10 @@
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\bin\Debug\If-else.exe.config
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\bin\Debug\If-else.exe
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\bin\Debug\If-else.pdb
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\obj\Debug\If-else.csproj.AssemblyReference.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\obj\Debug\If_else.Form1.resources
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\obj\Debug\If_else.Properties.Resources.resources
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\obj\Debug\If-else.csproj.GenerateResource.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\obj\Debug\If-else.csproj.CoreCompileInputs.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\obj\Debug\If-else.exe
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\If-else\If-else\obj\Debug\If-else.pdb
